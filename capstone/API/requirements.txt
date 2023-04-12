@@ -1,0 +1,6 @@
+SQLAlchemy==1.4.40
+Flask
+gunicorn
+flask-restx
+pymysql
+datetime

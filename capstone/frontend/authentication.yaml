@@ -1,0 +1,21 @@
+credentials:
+  usernames:
+    peps_garcia_python:  
+        email: jgarciah@faculty.ie.edu
+        name: Pepe Garcia
+        password: $2b$12$DeSWjZp.xpy4yhnoj46CMe2P.wfnshcLFioW6t88djakBG9qjv5um # Un-hashed password is: 234567
+    gustaf_martins_capstone:
+        email: gustavom@faculty.ie.edu
+        name: Gustavo Martin
+        password: $2b$12$v1tNxvGfIFYpjjjjyIOurO1XhO44xRkzI7g3mjiTVGDVNm2rJ4db6 # Un-hashed password is: 345678
+    yulyyulz:
+        email: jjimenez.ieu2018@student.ie.edu
+        name: Julia Jimenez
+        password: $2b$12$RTMQcp/CV6f8/bVpzt3FI.eqFOOrTFa0/tvZblyD0mtE47Q9V/fMK # Un-hashed password is: 456789
+cookie:
+  expiry_days: 30
+  key: random_signature_key 
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - gdetrazegnie@student.ie.edu
